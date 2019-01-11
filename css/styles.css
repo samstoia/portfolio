@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+.projects {
+  margin-left: 20px;
+}
+
+.links {
+  font-size: 30px;
+}
+
+.sublinks {
+  font-size: 20px;
+}
+
+.jumbotron img {
+  float: right;
+  height: 25%;
+  width: 25%;
+}
