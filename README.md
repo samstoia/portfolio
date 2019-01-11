@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a webpage that tells people about the projects I've made at Epicodus so far.  It also has an about me page where people can learn more about my background and hobbies}_
+_This is a webpage that tells people about the projects I've made at Epicodus so far.  It also has an about me page where people can learn more about my background and hobbies_
 
 ## Setup/Installation Requirements
 
@@ -15,14 +15,14 @@ _{This is a webpage that tells people about the projects I've made at Epicodus s
 
 ## Known Bugs
 
-_{None}_
+_None_
 
 ## Technologies Used
 
-_{HTML, CSS, Bootstrap}_
+_HTML, CSS, Bootstrap_
 
 ### License
 
-*{MIT License}*
+*MIT License*
 
 Copyright (c) 2019 **_Sam Stoia_**
