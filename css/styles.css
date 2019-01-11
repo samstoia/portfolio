@@ -34,3 +34,20 @@ h1 {
 .hobbies {
   font-weight: bold;
 }
+
+body {
+  background-color: beige;
+}
+
+.jumbotron {
+  border: 8px solid skyblue;
+  padding: 4px;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 100px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
