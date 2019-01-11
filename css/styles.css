@@ -23,3 +23,14 @@ h1 {
   height: 25%;
   width: 25%;
 }
+.titles {
+  font-size: 20px;
+}
+
+.panel-body {
+  font-size: 15px;
+}
+
+.hobbies {
+  font-weight: bold;
+}
