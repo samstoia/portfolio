@@ -12,7 +12,7 @@ _This is a webpage that tells people about the projects I've made at Epicodus so
 
 * _Download or clone from github_
 * _Open index.html in browser_
-* _View webpage here: https://samstoia.github.io/portfolio/ _
+* _View webpage here: https://samstoia.github.io/portfolio/_
 
 ## Known Bugs
 
