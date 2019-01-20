@@ -11,7 +11,8 @@ _This is a webpage that tells people about the projects I've made at Epicodus so
 ## Setup/Installation Requirements
 
 * _Download or clone from github_
-* _Github profile [here](https://github.com/samstoia)_
+* _Open index.html in browser_
+* _View webpage here: https://samstoia.github.io/portfolio/ _
 
 ## Known Bugs
 
